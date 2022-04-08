@@ -1,0 +1,801 @@
+,marathi,rating,english
+0,तो पळाला हसत हसत,1,He ran away laughing
+1,मी पडलो मला लागलं,-1,I fell
+2,मला माहित आहे,0,I know
+3,मी हरलो,-1,I lost
+4,मी काम करतोय,0,I am working
+5,मी ठीक आहे,0,I&#39;m fine
+6,आम्ही जिंकलो,1,We won
+7,आपण सगळे जिंकलो,1,We all win
+8,मला कॉल कर,0,Call me
+9,मी तुला कॉल करतो,0,I call you
+10,आम्हाला कॉल कर,0,Give us a call
+11,तू जेवलास का?,0,Did you eat
+12,एकदम छान घडी घातलिस,1,Full screened ambulance
+13,बाहेर हो,0,Get out
+14,दूर हो माझ्या नजरे समोरून,-1,Get out of my sight
+15,मला मदत कर,0,Help me
+16,माझी मदत करा,0,Help me
+17,मला वाचवा,0,Save me
+18,मला वाचव,0,Save me
+19,मी हॅरी आहे,0,I&#39;m Harry
+20,माझं नाव हॅरी आहे,0,My name is Harry
+21,मी जाडा आहे,0,I&#39;m thick
+22,जाडा असलो तरी खूश आहे,1,Happy despite being thick
+23,मी आजारी आहे,-1,I&#39;m sick
+24,मला ताप आला आहे खूप,-1,I&#39;ve got a fever
+25,माझं पोट दुखतय,-1,My stomach hurts
+26,ठीक आहे,0,Ok
+27,सगळं ठीक होईल,1,Everything will be fine
+28,झक्कास,1,Jest
+29,एकदम झक्कास,1,Absolutely jittery
+30,खूप मजा आली,1,It was a lot of fun
+31,आम्हाला काळजी आहे,1,We care
+32,आपण हरलो,-1,You lose
+33,आम्ही हरलो,-1,We lost
+34,"वेलकम, प्लीज आत या",0,"Welcome, please or"
+35,हे कोणी खाल्लं?,0,Who ate this?
+36,एकदम मस्त बनवलं होतं,1,It was made very cool
+37,कोण पळाला?,0,Who escaped?
+38,का नाही?,0,Why not
+39,अजिबात नाही,-1,Not at all
+40,मागे हो,0,Ask me
+41,हट कुत्र्या,-1,Hot dogs
+42,शांत रहा,0,Kept calm
+43,तू थोडा गप राहशील का?,0,Will you be quiet
+44,मजा करा,1,Have fun
+45,आपण मजा करूया,1,Let&#39;s have fun
+46,खूप मजा येत आहे मला,1,I&#39;m having a lot of fun
+47,तुम्ही मजा करत आहात ना?,0,Are you kidding
+48,मी विसरलो,0,I forgot
+49,"सॉरी, मी विसरलो",0,"Sorry, I forgot"
+50,मी पूजा करतो,1,I worship
+51,मी ते वापरतो,0,That&#39;s what I use
+52,मी प्रयत्न करीन,1,I will try
+53,मी गरीब आहे,-1,I am poor
+54,मी श्रीमंत आहे,1,I&#39;m rich
+55,खूप गरमी आहे,-1,It&#39;s very hot
+56,काय मस्त वातावरण आहे,1,What a cool atmosphere
+57,"हॅरी ला किस कर, तो स्मार्ट आहे",1,"Kiss Harry, he&#39;s smart"
+58,हे नवीन आहे,0,It&#39;s new
+59,सोड मला,0,Leave me
+60,ती मेली,-1,She died
+61,तू पण मर जाऊन,-1,You too will die
+62,"ए सांगतोस काय, एकदम सही यार",1,"What do you say, perfect man"
+63,ते जिंकले,1,They won
+64,ते हरले,-1,They lost
+65,लॉस झालं यार,-1,Lost man
+66,खूप प्रॉफिट झाला यार,1,Very profitable man
+67,हॅरी हरला ना,-1,Harry lost
+68,हॅरी जिंकला ना,1,Harry won
+69,तो रडला,-1,He cried
+70,ती हसली,1,She laughed
+71,तो बोलला ,0,He spoke
+72,ती लाजली,0,She was ashamed
+73,हे वापर,0,Use it
+74,ते नको वापरुस,-1,Don&#39;t use it
+75,बघ मला,0,Look at me
+76,बघून घेईन तुला,-1,Will see you
+77,कोण आहेस तू?,0,Who are you
+78,तूच हसला ना?,0,You didn&#39;t laugh?
+79,किती गोड दिसते ती,1,How sweet it looks
+80,खूप सुंदर आहे ती,1,She is very beautiful
+81,पक्षी उडत आहे,0,The bird is flying
+82,इथे ये,0,Come here
+83,खाली बस आणि माझ्यासोबत बोल,0,Sit down and talk with me
+84,कुत्रे किती आवाज करतात,0,How much noise do dogs make?
+85,शी! मला नाही आवडत ते,-1,Shi! I don&#39;t like that
+86,रडू नको,0,Don&#39;t cry
+87,मरु नकोस,0,Don&#39;t die
+88,आज आपण फिरायला जाऊया,1,Let&#39;s go for a walk today
+89,बाहेर जाऊया आज,1,Let&#39;s go out today
+90,रेडी हो,0,Ready
+91,तय्यार हो,0,Be ready
+92,ते पकड,0,Te caught
+93,तू घाणेरडा आहेस,-1,You are filthy
+94,ते धर,0,Te dhar
+95,तो सेक्सी आहे,1,It&#39;s sexy
+96,ती सेक्सी आहे,1,She is sexy
+97,तो हॉट आहे,1,It&#39;s hot
+98,ती हॉट आहे,1,She is hot
+99,हे कसं झालं?,0,How did this happen?
+100,तो कमवत नाही,-1,He does not earn
+101,तो खूप कमवतो,1,He earns a lot
+102,तो माझा आहे,0,He is mine
+103,ती माझी आहे,0,She is mine
+104,झक्क मारली आणि इथे आलो,-1,Jerked and came here
+105,कसं चाललंय?,0,How are you doing
+106,मस्त चाललंय,1,It&#39;s cool
+107,मी जिंकेन,1,I will win
+108,मी नाही जिंकणार,-1,I&#39;m not gonna win
+109,तिच्यासाठी जींकेन,0,Jenkin for her
+110,तिच्यामुळे हरलो,-1,Lost because of her
+111,मी त्याला मारले,-1,I killed him
+112,त्याने मला मारले,-1,He killed me
+113,मी तुला बघितलं,0,I see you
+114,त्याने मला बघितलं,0,He looked at me
+115,तिने मला बघितलं ,0,She looked at me
+116,मी त्यांना बघितलं,0,I looked at them
+117,किती जोरात ओरडतोस,0,How loud you shout
+118,किती छान ओरडतोस,1,What a great shout
+119,मी बोर झालो आहे,0,I&#39;m bored
+120,मला बोर होतंय,-1,I&#39;m bored
+121,कंटाळा आलंय साला,-1,Tired of years
+122,एकदम चींदी आहे,1,There is a lot of shit
+123,खूप सुंदर आहे ते चित्र,1,The picture that is so beautiful
+124,हे आपलं आहे,0,This is ours
+125,हा कचरा वास मारतो,-1,This rubbish smells
+126,जाऊदे ना,0,Let&#39;s go
+127,मला जाऊद्या ना घरी,0,Let me go home
+128,मला आत घ्या,0,Take me in
+129,तुला कापून टाकेन,-1,Will cut you off
+130,धमकी देतोस का रे?,-1,Do you threaten
+131,निघून जा इथून,0,Get out of here
+132,टकला तुझा बाप,-1,Luck your father
+133,हैवान आहेस,-1,You are human
+134,शैतान आहेस,-1,You are the devil
+135,तू राक्षस आहेस,-1,You&#39;re a monster
+136,तू देवी आहेस,1,You are a goddess
+137,तू सुंदर आहेस,1,You are beautiful
+138,तू खूप नॉटी आहेस,0,You are so naughty
+139,तुला समजत नाही का?,0,Do you not understand
+140,एकदम चविष्ट जेवण आहे,1,Is a very tasty meal
+141,खूप मजा आली ते खाऊन,1,It was a lot of fun eating it
+142,खूप घान होती ती डिश,-1,That dish was very Ghana
+143,माझं पोट दुखायला लागलं,-1,My stomach started to ache
+144,तो खोटारडा आहे,-1,He is a liar
+145,ती खोटारडी आहे,-1,She is a liar
+146,ती हरामी आहे,-1,She is a bastard
+147,तो हरामी आहे,-1,He&#39;s a bastard
+148,मला भूक लागली,0,I was hungry
+149,तुला भूक लागली का?,0,Are you hungry
+150,काय फालतुगिरी आहे ही?,-1,What &#39;s wrong?
+151,लय भारी हा,1,Rhythm heavy
+152,भारीच दिसतेस,1,You look heavy
+153,नुसता जाडा झालाय,-1,It&#39;s just getting thicker
+154,रेडी झालास का?,0,Are you ready?
+155,रेडी झालीस का?,0,Are you ready?
+156,तुझाच आहे मी,1,I&#39;m yours
+157,तुझीच आहे मी,1,You are me
+158,तो रडला,-1,He cried
+159,ती रडली,-1,She cried
+160,परत बघ,0,Look back
+161,किती स्वीट आहे ती,1,How sweet is that
+162,तो किती हँडसम आहे,1,What a handsome it is
+163,मी नाही आहे हुशार,0,I&#39;m not smart
+164,तो मूर्ख आहे,-1,He is a fool
+165,ती मूर्ख आहे,-1,She is a fool
+166,प्लीज चूप रहा,0,Please be choosy
+167,चूप रहा नाहीतर मारेन तुला,-1,Shut up or else I&#39;ll kill you
+168,ती म्हातारी आहे,0,She is old
+169,तो म्हातारा आहे,0,He is old
+170,बाजूला हो,0,Be on the side
+171,बस ने जा,0,Just go
+172,ही बस किती साफ आहे,1,How clean is this bus
+173,ही बस घाणेरडी आहे,-1,This bus is dirty
+174,मला कॉल कर,0,Call me
+175,मी तुला कॉल करीन,0,I will call you
+176,शाब्बास,1,Well done
+177,"वाह, काय बात आहे",1,"Wow, what&#39;s the matter"
+178,टाइम संपला,0,Time is up
+179,वेळ संपली,0,Time is up
+180,मी छान आवाज काढतो,1,I make great noise
+181,माझा घसा बसला आहे,-1,I have a sore throat
+182,मी विसरलो,0,I forgot
+183,सॉरी माझी चूक झाली,1,"Sorry, I was wrong"
+184,मला माफ करा,1,I&#39;m sorry
+185,तू बरोबर आहेस,1,You are right
+186,तोच मार्ग बरोबर आहे,1,That is the way
+187,तू कुठे आहेस?,0,Where are you
+188,तो जाडा आहे,0,It&#39;s thick
+189,तू जाडी आहे,0,You are thick
+190,सगळे येडे आहे,-1,Everything is here
+191,तू खरच बेकार आहेस,-1,You really are worthless
+192,तुला काम धंदा नाहीये,-1,You have no business
+193,तू मरून जा,-1,You die
+194,काय मस्त दिसतोस,1,You look cool
+195,काय रापचीक दिसतेस,1,What a raspy look
+196,तू सुंदर गीत गातेस,1,You sing beautiful songs
+197,तू राणी सारखी दिसतेस,1,You look like a queen
+198,तू राजा सारखा दिसतोस,1,You look like a king
+199,आपण लग्न करूया,1,Let&#39;s get married
+200,तिला गाणं आवडतं का?,0,Does she like to sing
+201,तू गातेस का?,0,You are of Gaetas?
+202,तू  गातोस का?,0,You are Gatos?
+203,किती छान गातेस,1,What a beautiful song
+204,किती अप्रतिम गातोस,1,What a wonderful song
+205,तू शेव कर,0,You shave
+206,हे बघ,0,See this
+207,तू हे सुंदर फूल बघ,1,You see this beautiful flower
+208,ती तुला आवडली का?,1,Do you like it
+209,तू त्रास नको देऊस,0,Don&#39;t worry
+210,त्रास दिलास तर मारेन,-1,"If you suffer, you will die"
+211,गपचुप चालता हो,-1,Have a chat
+212,निघून जा कायमचा ,-1,Leave forever
+213,आम्ही मुलं आहोत,0,We are children
+214,तुम्ही मुली आहात,0,You are a girl
+215,ती मला पायजे ,0,She found me
+216,ती माझीच आहे,0,She is mine
+217,तो माझाच आहे,0,He is mine
+218,माझी मदत करा प्लीज,0,Please help me
+219,मदत केल्याबद्दल धन्यवाद,1,Thanks for helping out
+220,मी थांबतो,0,I stop
+221,तू थांबशिल का?,0,Do you stop
+222,आपण काम करू,0,We will work
+223,आम्ही मजेत आहोत,1,We&#39;re having fun
+224,तुम्ही का इतके उदास?,-1,Why are you so sad
+225,तुला वाईट वाटलं का?,0,Do you feel bad
+226,मला वाईट वाटलं,-1,I feel bad
+227,मला नाही जमत,-1,I do not agree
+228,ती कोण आहे?,0,Who is she
+229,ती हॉट आहे,1,She is hot
+230,तो हॉट आहे,1,It&#39;s hot
+231,ती का ओरडली?,0,Why did she scream
+232,किती कर्कश आवाज आहे तिचा ,-1,What a jarring sound it is
+233,तू ठरव,0,You decide
+234,तुला जेल मध्ये टाकेन,-1,Throw you in jail
+235,झालं का तुझं?,0,Why are you
+236,तुझं मस्त झालं,1,You&#39;re cool
+237,तू भांडू नकोस,1,You don&#39;t argue
+238,भांडलास तर वाईट होईल,-1,"If you argue, it will be worse"
+239,मारून टाकेन तुला मी,-1,I&#39;ll kill you
+240,तू देव आहेस का?,1,Are you god
+241,देवासारखा आलास बघ,1,Look like God
+242,तू तर दानव आहेस,-1,You are a demon
+243,माफ कर मला,1,I&#39;m sorry
+244,मी तुला माफ केलं,1,I&#39;m sorry you
+245,जा कपडे बदल,0,Change clothes
+246,कपडे घान आहे,-1,The clothes are Ghana
+247,कपडे छान आहे,1,The clothes are nice
+248,सुरू कर गाडी,0,Carriage
+249,जा मस्ती करा,1,Have fun
+250,आपण मस्ती करूया,1,Let&#39;s have fun
+251,माझी गाडी कुठे आहे?,0,Where is my car?
+252,बस ना,0,Settle
+253,बसून बोलूया ना,0,Let&#39;s sit down and talk
+254,आपण बसुया का?,0,Shall we sit
+255,तुला वाचता येतं का?,0,Can you read
+256,तू वाचवलं मला,1,You saved me
+257,तू त्रास दिलास मला,-1,You hurt me
+258,तुझ्याकडे दारू आहे का?,0,Do you have alcohol
+259,किती महाग आहे ही गाडी,0,How expensive is this train
+260,तू खुश आहेस ना?,0,Are you happy
+261,मी जाम खूश आहे,1,I&#39;m happy jam
+262,तू खूप तरुण आहे,1,You are very young
+263,तू कसा इथे आलास?,0,How did you get here
+264,तू तर हीरो आहेस,1,You&#39;re a hero
+265,तू किती उंच झालास,1,How tall have you been
+266,"शाब्बास, उंची गाठली",1,"Shabbos, reached altitude"
+267,तुला नाचता येतं का?,0,Can you dance
+268,मी तर डान्स मध्ये एक्स्पर्ट आहे,1,I&#39;m an expert in dance
+269,एकदम सुंदर पिक्चर आहे,1,It&#39;s a beautiful picture
+270,मुलुंड पश्चिम किती मोठा आहे,1,How big is Mulund West
+271,क्या बात.. मूवी एकदम मस्त.. मजा आली,1,What is it .. the movie is very cool .. fun
+272,छान आहे मूवी,1,Great movie
+273,तू चांगला आहेस,1,You are good
+274,गजानन चा वडापाव सगळ्यात बेस्ट आहे,1,Gajanan&#39;s Vadapav is the best of all
+275,आज च दिवस खूप छान आहे,1,It&#39;s a nice day
+276,तू किती मस्त दिसतेस,1,How cool you look
+277,Kfc चा बर्गर खूप मस्त आहे,1,Kfc&#39;s burger is super cool
+278,काका हलवाई ची मिठाई खूप छान आहे,1,Uncle Halvai&#39;s dessert is very nice
+279,मला नाचायला खूप आवडतं,1,I love to dance
+280,तू खूपच हुशार आहेस,1,You are so smart
+281,हा हीरो अॅक्च्युअली चांगला अॅक्ट करतो,1,This hero performs virtually well
+282,मुंबई खूप छान शहर आहे,1,Mumbai is a very nice city
+283,मुंबई राहायला खूप छान शहर आहे,1,Mumbai is a great city to live in
+284,घरातील पडदे सुंदर आहेत,1,The curtains in the house are beautiful
+285,टीव्ही मधील बातम्या हे सदर चांगले आहे,1,This is good news in TV
+286,शरीरासाठी मॉर्निंग वॉक चांगला आहे,1,Morning walk is good for the body
+287,प्रायव्हेट शाळेतील सोयी छान आहेत,1,Private school facilities are great
+288,लता मंगेशकर यांनी गायलेली गीत फारच सुंदर आणि ऐकावेसे वाटते,1,The song sung by Lata Mangeshkar is very beautiful and beautiful to listen to
+289,सकाळी दूध पीने चांगले आहे,1,Drinking milk in the morning is good
+290,रोज सकाळी लवकर उठावे ,1,Get up early every morning
+291,ही डिश चांगली आहे,1,This dish is good
+292,हा गेम एकदम मस्त आहे,1,This game is pretty cool
+293,भाऊ कदम माझा फेवरेट आहे,1,Brother Kadam is my favorite
+294,खेळायला मजा येते,1,It&#39;s fun to play
+295,आजचा दिवस खूप घाण आहे,1,Today is very dirty
+296,मॉर्निंग वॉक करायला कंटाळा येतो,-1,Tired of doing a morning walk
+297,सकाळी दारू नसते प्यायची,1,In the morning there was no alcohol
+298,ही डिश फालतू आहे,-1,This dish is crap
+299,तो तर विलन दिसतो,-1,He looks villainous
+300,एकदम बेचव फ्रॉईड राइस मिळतो इथे,-1,You get the best-selling fried rice here
+301,मुलुंड पूर्व खूप कॅंजेस्तेड आहे,-1,Mulund East is very congested
+302,बकवास फ्रॉईड राइस,-1,Buckwheat Fried Rice
+303,मला नाही आवडला फ्रॉईड राइस,-1,I did not like fried rice
+304,तू हरामखोर आहेस,-1,You are a bastard
+305,भांडुप मध्ये रिक्षा मिळतच नाही,-1,There is no rickshaw in the capital
+306,ती तुला पटणार नाही,-1,She won&#39;t convince you
+307,तो एवढा चांगला गात नाही,-1,It&#39;s not such a good song
+308,रॉयल ची बिर्यानी खूप बकवास आहे,-1,Royal Cheerleader is so crap
+309,शिरूर चा वडापाव चांगला नसतो,-1,Shirur&#39;s ancestry is not good
+310,मला नॉन व्हेज खायला आवडत नाही,-1,I hate eating non-veg
+311,हॅरी आजकाल विचित्र वागत आहे,-1,Harry is behaving strangely these days
+312,त्या मूवी मध्ये खूप ओव्हर अक्टिंग केली होती,-1,There was a lot of over-acting in that movie
+313,दारू शरीरासाठी नुकसानकारक आहे,-1,Alcohol is harmful to the body
+314,मुंबईची गर्दी फारच बेकार आहे,-1,The Mumbai crowd is very useless
+315,घराला भडक रंग दिलेले बेकार दिसतात,-1,The house looks vivid with its vivid colors
+316,टीव्ही मधील क्राईम स्टोरी ही सीरियल बेकार आहे,-1,Crime Story from TV is a serial nonsense
+317,दारू शरीरासाठी चांगली नाही,-1,Alcohol is not good for the body
+318,सरकारी शाळेत चांगल्या सोयीच नसतात ,-1,Government schools do not have good facilities
+319,बेसूर गायलेली गीत नकोस वाटते,-1,You don&#39;t want to sing a song
+320,चहा पिणे बेकार,-1,Drinking tea is useless
+321,जास्त वेळ झोपू नये,-1,Do not sleep for long
+322,इथे कपडे बकवास मिळतात,-1,Here the clothes get crap
+323,इथे गेम सीडी नाही मिळत,-1,Can&#39;t find a game CD here
+324,बद्रिके ला अक्टिंग येत नाही यार,-1,Badrike does not have any Octing Man
+325,खेळताना लागू शकतं,-1,Can apply while playing
+326,मला चिकन आवडतं,1,I like chicken
+327,हॅरी किती रोमँटिक आहे,1,How romantic Harry is
+328,दारू तर नशा आहे,0,Alcohol is addictive
+329,बिर्यानी माझी आवडती आहे,1,Biryani is my favorite
+330,थिएटर मध्ये नाटक बघुया,0,Let&#39;s see the drama in the theater
+331,नाटक अप्रतिम होतं,1,The play was wonderful
+332,चहा तर जिंदगी आहे,1,Tea is life
+333,जास्त झोपलो तर फ्रेश वाटते,1,Feeling asleep if I sleep too much
+334,सरकार खराब आहे,-1,The government is bad
+335,इथे कसलीच सोय नाहीये,-1,There is no comfort here
+336,बद्रिके छान अभिनय करतो,1,Badrike plays great
+337,मुंबई सगळ्यात छान शहर आहे,1,Mumbai is the best city
+338,टीव्ही बघण्यात आनंद मिळतो,1,I enjoy watching TV
+339,गर्दी मध्ये श्वास घेता येत नाही,-1,Can&#39;t breathe in the crowd
+340,हे सगळं इतर कुठल्याही दुकानात मिळेल,0,It can be found in just about any other shop
+341,देशमुख गार्डन 8 वाजता उघडतं,0,Deshmukh Garden opens at 8pm
+342,नोवेलटी शॉप मध्ये सगळंच मिळेल,0,Everything can be found in the Novelty Shop
+343,नोवेलटी शॉप मध्ये सगळ्या वस्तू मिळतात,0,Everything is available at the Novelty Shop
+344,तिथे कुत्रा झोपला आहे,0,The dog is sleeping there
+345,मुलुंड नंतर नाहूर स्टेशन ची गरज आहे का,0,Do you need a Nahur station after Mulund?
+346,खालून भाजी आन,0,Fry the vegetables on the bottom
+347,मी बाहेर होतो,0,I was out
+348,पविलिअन मॉल मध्ये सगळं मिळतं,1,Everything is available at Pavilion Mall
+349,डी-मार्ट मध्ये सगळ्या वस्तू मिळतात,1,D-Mart gets everything
+350,लोकांनी वाचन करायला हवं,0,People should read
+351,मला ना वर्ल्ड टूर ल जायचं आहे,0,I want to go to a world tour
+352,हे त्या मूवी च मोरला होतं,0,It was about that movie
+353,बॉलिवूड मुंबई मध्ये आहे,0,Bollywood is in Mumbai
+354,मुंबईची कायदा व्यवस्था उत्तम आहे,1,Mumbai&#39;s law system is good
+355,घराला घरपण आपल्या माणसांमुळे मिळते,0,Home is a home for our people
+356,टीव्ही पाहणे योग्य आहे,1,It&#39;s worth watching TV
+357,शरीर छान ठेवणे ही काळाची गरज आहे,1,Keeping the body cool is the need of the hour
+358,शाळेत सगळ्या प्रकारचे शिक्षण दिले जाते,1,All kinds of education are provided in the school
+359,गाणे ऐकणे हा छंद असावा,1,Listening to a song should be a hobby
+360,"चहा, कॉफी हॉटेल मध्ये मिळेल",0,"Tea, coffee will be found in the hotel"
+361,योगा करणे खूप चांगलं आहे,1,Yoga is very good to do
+362,हे आईस क्रीम पूर्ण महाराष्ट्र मध्ये मिळतं,0,This ice cream is available all over Maharashtra
+363,मे काय करू?,0,What can i do
+364,शो छान आहे,1,The show is cool
+365,काय खेळायचे?,0,What to play
+366,मुलुंड स्टेशन मस्त आहे,1,Mulund station is cool
+367,कालचे जेवण खराब झाले,-1,Yesterday&#39;s meal was bad
+368,लोक वाचतील तर हुशार बनतील,0,People will become smarter if they read
+369,पुस्तके वाचणे चांगले असते,1,It&#39;s good to read books
+370,वर्ल्ड टूर करायची मजाच वेगळी आहे,0,The fun of doing a world tour is different
+371,देशमुख कुठे आहे?,0,Where is Deshmukh?
+372,मला जेवण नको,-1,I don&#39;t want a meal
+373,मला चायनीज चालेल,1,I would like Chinese
+374,फ्राईड राईस चविष्ट आहे,1,Fried rice is tasty
+375,मी ब्रेड खातो,0,I eat bread
+376,मला ब्रेड आवडतो,1,I love bread
+377,मला फ्रूटस पण आवडतात,1,I also like Frutus
+378,तुला काय आवडतं?,0,What do you like
+379,तू व्यायाम करतो का?,0,Do you exercise
+380,व्यायाम शरीरासाठी चांगला असतो,1,Exercise is good for the body
+381,मला धूम्रपान आवडत नाही,0,I hate smoking
+382,तुला मच्छी आवडते का?,0,Do you like mosquitoes?
+383,मच्छी तर बेस्ट आहे,1,Fish is the best
+384,भात आणि मच्छी बेस्ट कॉम्बो आहे,1,The best combo of rice and fish is
+385,चिकन आणि भात सर्वात भारी आहे,1,Chicken and rice are the heaviest
+386,मे बनवू का?,0,May I make it?
+387,मला एकदम चविष्ट चिकन बनवता येतं,1,I can make very tasty chicken
+388,मी एकटाच राहतो,0,I live alone
+389,तू राहशील का माझ्यासोबत?,0,Will you stay with me
+390,एकटं राहायला मजा येते,1,It is fun to be alone
+391,एकटं राहिलं तर काहीही करता येतं,1,"If left alone, anything can be done"
+392,मला थोडा वेळ हवा,0,I&#39;d like some time
+393,मला वेळच मिळत नाही,-1,I just can&#39;t find the time
+394,कुठे जायचं हनिमून ला?,0,Where to go on honeymoon?
+395,तू सांगशील तिकडे जाऊ,0,Go wherever you say
+396,एक गोष्ट सांगू का तुला?,0,Can you tell me one thing?
+397,तिथेच जाऊया छान आहे ती जागा ,0,Nice place to go there
+398,आणि काय करूया तिकडे?,0,And what do we do there?
+399,तुला काय करावसं वाटतं?,0,What do you want to do
+400,मला थोडा वेळ हवा,0,I&#39;d like some time
+401,तुला किती टाइम लागेल?,0,How much time do you need
+402,मला गॅस चा वास येतोय,0,I smell gas
+403,गॅस चा वास किती मोहक आहे ना,1,How fascinating is the smell of gas
+404,मला थोडं अजून मिळेल का?,0,Can I have some more?
+405,अजून दिलास तर बरं होईल,0,"If you give more, it will be better"
+406,मला तूच हविस,0,I want you
+407,तू माझी होशील का?,0,Will you be mine
+408,मे एकटा होतो,0,I was alone
+409,नागडा करून मारेन,-1,I will kill you naked
+410,मी दमलो,0,I&#39;m tired
+411,मी येतो उद्या,0,I&#39;ll come tomorrow
+412,उद्या जाम मज्जा येईल,1,Tomorrow will be jam fun
+413,मी खोटं नाही बोलत,1,I&#39;m not lying
+414,ती सद्ध्या काय करते?,0,What does she do?
+415,दुनियादारी करूया,1,Let&#39;s do it
+416,टाइमपास करूया,0,Let&#39;s do the timepass
+417,मी ते विकत घेतो,0,I buy it
+418,ती वस्तू मला आवडली,1,I like that stuff
+419,मी आरडाओरडा करेन,1,I&#39;ll shout
+420,तू आवाज नको करुस,-1,You don&#39;t want to sound
+421,मी जेल मध्ये आहे,1,I&#39;m in jail
+422,जेल खूप वाईट,1,Prison too bad
+423,मी तंदुरुस्त आहे,1,I&#39;m fit
+424,हेल्थ ची काळजी घेणे आवश्यक आहे,0,Health care is a must
+425,"मी टॉम नाहीये, मी हॅरी आहे",1,"I&#39;m not Tom, I&#39;m Harry"
+426,मी खूप पॉप्युलर आहे,0,I&#39;m very popular
+427,मला प्रसिद्धी आवडते,0,I love fame
+428,मी हे वाचतोय,1,I&#39;m reading this
+429,"हे वाच, तुला आवडेल",0,"Read this, you&#39;ll love it"
+430,सगळं खरं होतं का?,0,Was everything true?
+431,हे स्वप्न तर नाही?,0,Isn&#39;t it a dream?
+432,एकदम घाबरलो मी,0,I was terrified
+433,ही फ्रेंच भाषा आहे,1,This is a French language
+434,फ्रेंच किती सुंदर भाषा आहे,1,What a beautiful language French
+435,हे गाणं छान आहे,0,This song is awesome
+436,गाणं गाऊया का?,0,Should we sing a song?
+437,मला गाऊदे ना घरी,0,I am not at home
+438,चल सुरू करूया,0,Let&#39;s get started
+439,चला सुरू झाला खेळ,0,Let&#39;s start the game
+440,माझे माहेर पंढरी,0,My Maher Pandhari
+441,तुझे माहेर कुठे आहे?,1,Where is your maher
+442,माहेरची साडी मस्त आहे,0,Maher&#39;s saree is cool
+443,तिचं ती बघेल,0,She will see it
+444,तुझं तू बघ,1,See you
+445,तो खूप मनमोहक आहे,1,He is very charming
+446,तू माझं मन जिंकलस,1,You win my heart
+447,तुझी अदा सगळ्यात भारी,0,Your pay is the heaviest
+448,चल ढोल वाजवूया,0,Chal Dhol Vajavuya
+449,नगारा वाजवता येतो का?,1,Can a town be played?
+450,बासरी सगळ्यात सुरीली आहे,0,The flute is the most melodious
+451,तो तुझा मित्र आहे का?,1,Is he your friend
+452,माझा मित्र लई भारी,1,My friend Lai heavy
+453,माझी पार्टी बेस्ट होती,1,My party was great
+454,तू प्रयत्न तर कर,1,If you try
+455,तू यशस्वी होशील,0,You will succeed
+456,तुझ्या लक्षात आहे का?,0,Do you remember
+457,बघ आठवून,-1,Look back
+458,त्याने तिला मारले,-1,He killed her
+459,तिने त्याला मारले,1,She killed him
+460,दोघं नंतर हसले,0,The two then laughed
+461,मग काय झालं माहितीये का?,1,Do you know what happened?
+462,त्यांनी लग्न केलं,1,They got married
+463,मग ते सुखी झाले,1,Then they rejoiced
+464,झाली ना गोष्ट मजेदार?,0,Didn&#39;t it sound funny?
+465,ते माझं आहे,0,That&#39;s mine
+466,त्यांनी फोन केला होता,0,They had called
+467,ते थांबले होते तुझ्यासाठी,1,They were waiting for you
+468,तो चांगला मुलगा आहे,1,He&#39;s a good boy
+469,ती हुशार आहे,1,She&#39;s smart
+470,तिला तू आवडलास,0,She liked you
+471,सौरभ लग्न कर,1,Saurabh Lagna Kar
+472,त्याचं लग्न ठरलं,1,He got married
+473,मुलगी चांगली आहे,0,The girl is good
+474,ती माझी आहे,0,She is mine
+475,ते नाचले,1,They danced
+476,ते खूप छान नाचले,-1,They danced very well
+477,ते माझ्यासाठी थांबले नाही,-1,That did not stop for me
+478,मी काय कार नाही आणली,1,What a car I didn&#39;t bring
+479,कार असेल तर मज्जा येईल,0,Having a car will be fun
+480,ही खूप मोठी गोष्ट आहे,0,That&#39;s a big deal
+481,काय नाचू मग मी?,0,What do I dance to?
+482,त्याला वाजवा रे,0,Play him
+483,तो एकदम बिंडोक आहे,-1,It is absolutely bindok
+484,ती एकदम फालतू पोरगी आहे,-1,She&#39;s a dirty porgy
+485,तो बुडून मला,-1,It sank me
+486,तो खूप वाया गेलेला आहे,-1,It&#39;s too wasted
+487,ती नाही बोलली,-1,She didn&#39;t speak
+488,तिला मी नाही आवडत,-1,She doesn&#39;t like me
+489,त्याने तिला पाहिले तर तो खुश झाला,1,He was pleased if he saw her
+490,तिने त्याला हृदय दिलं,1,She gave him a heart
+491,ती मनाची परी आहे,1,She is an angel of the heart
+492,असं माझ्या डोळ्यांच म्हणनं आहे,0,That&#39;s what my eyes say
+493,चंद्र तुझ्यासमोर झक मारतो,0,The moon hits you
+494,तुझी झोप कोणी उडवली? मी? ,0,Who made your sleep? Me?
+495,मी तुझ्यावर प्रेम करतो,1,I love you
+496,आडवा आलास तर कापून टाकेन,-1,"If cut horizontally, I will cut it"
+497,चल बाजूला हो!,0,Come on!
+498,जातोस का लात घालू?,-1,Why kick me out?
+499,चल ना जा ना निघ इकडून,-1,Let&#39;s not go or leave here
+500,माझे वडील श्रीमंत आहे,0,My father is rich
+501,तुझे वडील खूप देखणे आहे,1,Your father is very handsome
+502,तुझी आई किती गोड आहे,1,How sweet is your mom
+503,तुझे पप्पा पोलिस आहे?,0,Is your dad a cop
+504,मला नाही आवडत सरकारी नौकरी,-1,I don&#39;t like government jobs
+505,साखर खूप गोड असते ना?,0,"Sugar is very sweet, isn&#39;t it?"
+506,मला नाही बोलायचं तुझ्याशी,-1,I didn&#39;t want to talk to you
+507,तू तुझं काम कर ना,0,You do your job
+508,मला त्रास नको देऊस तू,-1,Don&#39;t bother me
+509,मला मिठाई आवडते,1,I love sweets
+510,मला बर्फी पण खूप आवडते,1,I love Barfi but so much
+511,माझ्याकडे पैसे नाहीये,-1,I have no money
+512,तू दे ना पैसे ,0,You give no money
+513,तू तर जाम मालामाल आहेस यार,1,You are a jam
+514,माझ्याकडे 2 गाड्या आहे,0,I have 2 cars
+515,मी आणतो ना तुझे कपडे,0,I&#39;ll bring you your clothes
+516,तुझी चावी हरवली यार,-1,Your key is lost man
+517,मी नाही झोपलो,-1,I didn&#39;t sleep
+518,मला एक आवाज आला,0,I got a voice
+519,मी पण तो ऐकला,0,But I heard it
+520,मला ते जस्ट सापडलं,1,I just found that out
+521,तू टॉम ला तर ओळखतच असशील,0,You know Tom
+522,मी तिला ओळखतो,0,I know her
+523,मी कोण आहे माहित आहे का?,0,Do you know who I am?
+524,मला कार्टून आवडतात,1,I love cartoons
+525,तू माझ्यासोबत पिक्चर बघायला येशील का?,1,Will you go see the picture with me?
+526,मला भांडायला आवडतं,0,I like to argue
+527,मला डान्स आवडतो,1,I love dance
+528,मी खूप वेग वेगळे डान्स करू शकतो,1,I can dance very differently
+529,स्वप्न पाहणे हा माझा छंद आहे,1,My dream is to dream
+530,मी जपान मध्ये राहतो,0,I live in Japan
+531,मी टॉम सारखा दिसतो,0,I look like Tom
+532,माझा फोन कुठेतरी हरवला,-1,I lost my phone somewhere
+533,माझं वॉलेट पण हरवला,-1,I lost my wallet
+534,मला शिकायला आवडतं,1,I like to learn
+535,मला शिकवायला पण आवडतं,1,I love to teach but also
+536,मला लेखनाची आवड आहे,1,I love writing
+537,मला एक पेन्सिल देतेस का?,0,Can you give me a pencil?
+538,मी हेल्मेट घेऊन येतो,0,I bring a helmet
+539,मला तुझी एक हेल्प हविये,0,I&#39;d like a help from you
+540,मी तुझा कैदी आहे,-1,I am your prisoner
+541,सोड मला इथून जाऊ दे,-1,Leave me here
+542,मी बिल भरतो,1,I pay the bills
+543,मला फुटबॉल आवडते,1,I love football
+544,मी टेनिस खेळायचो,0,I used to play tennis
+545,मला कॉफी जास्त आवडते,1,I love coffee more
+546,मी रोज पाळतो ट्रेडमिल वर,0,I follow the treadmill everyday
+547,मला पळायला आवडतं,1,I like to run
+548,मी त्याला नंगा पाहिलं,-1,I saw him naked
+549,जिम मध्ये तो नागडा फिरतो,-1,In the gym he walks naked
+550,मी दिवसभर झोपलो मस्त पैकी,1,I slept all day long
+551,मला चिकन च वास येतोय,0,I smell chicken
+552,मी इंग्लिश बोलतो,0,I speak english
+553,मला इंग्लिश लिहिता देखील येते,0,I also write English
+554,इतिहास माझा जिवलग विषय आहे,1,History is my personal subject
+555,मी ते पुस्तक हरवलं,-1,I lost that book
+556,मी तुझी बाजू मान्य करतो,1,I agree with your side
+557,मी मदत करायचा प्रयत्न केला देखील,1,I also tried to help
+558,मला एक वकील हवाय,0,I&#39;d like a lawyer
+559,मला थोडा चहा मिळेल का?,0,May I have some tea?
+560,ती सुंदर बॅग माझीच आहे,0,That beautiful bag belongs to me
+561,मला स्वप्नात नाचायचे,0,I used to dance in a dream
+562,मला झोप आलिये,0,I got sleep
+563,मला तुझ्याशी काहीतरी बोलायचं आहे,0,I want to talk to you about something
+564,मला तू परत हवी आहेस,1,I want you back
+565,मला तू परत हवा आहेस,1,I want you back
+566,मी अजून तुझ्यावर प्रेम करतो,1,I still love you
+567,मी अजून तुझ्यावर प्रेम करते,1,I still love you
+568,मी सैनिक आहे,0,I&#39;m a soldier
+569,मी सैनिक होतो,0,I was a soldier
+570,मी एक टीचर देखील होतो,0,I was also a teacher
+571,मला फाईटिंग येते,1,I love Fighting
+572,मी मार्शल आर्ट चॅम्पियन आहे,1,I am a martial arts champion
+573,माझ्यावर हल्ला झाला,-1,I was attacked
+574,मी तर गाडीत होतो,0,I was in the car
+575,ट्रेन ने जायला हवं होतं,0,Had to go by train
+576,मी शॉपिंग ला चाललोय उद्या,0,I&#39;m going shopping tomorrow
+577,शॉपिंग ने माझं मन हलकं होतं,1,Shopping made my mind light up
+578,मी कथा लिहितो,0,I write stories
+579,मला गोष्टी लिहायला मजा येते,1,I enjoy writing things
+580,मला हॉरोर नाही आवडत,-1,I hate Horror
+581,हॉरोर फार घान आहे,-1,Horror is very Ghana
+582,मी दहा वाजता येतो,0,I arrive at ten o&#39;clock
+583,मला थोडा उशीर होईल,-1,I&#39;ll be a little late
+584,मी दमलो खूप,0,I&#39;m tired
+585,मी खूप थकलोय,0,I&#39;m so tired
+586,मी नाही करू शकत ते,-1,I can&#39;t do that
+587,मी तुझा नौकर नाहीये,-1,I&#39;m not your servant
+588,मी एक इंजिनिअर आहे बरं का,1,Well I&#39;m an engineer why
+589,मी पोलिस झालो!,1,I&#39;m a cop!
+590,मी तुला फोन लावतो,0,I call you
+591,मला काहीच घाई नाहीये,0,I&#39;m in no hurry
+592,मी नुस्तं विचारलं,0,I just asked
+593,मी जाऊ तुला सोडून?,0,Can i leave you
+594,नको जाऊस मला सोडून,0,Don&#39;t want to leave me
+595,मी रडेन तू गेलीस तर,-1,I will cry if you go
+596,मी रडेन तू गेलास तर,-1,I will cry if you go
+597,मी काय चोर वाटतो तुला?,-1,What do you think I am a thief?
+598,तू माझ्यावर चोरी चा आढ घेतोय,-1,You&#39;re trying to steal from me
+599,मी भांडत नाहीये,0,I&#39;m not arguing
+600,मी तुला मारून इथेच गाडेन,-1,I&#39;ll kill you and bury you here
+601,मी अजून जिवंत आहे,0,I&#39;m still alive
+602,मला तर लाजच वाटते,0,I&#39;m ashamed
+603,मला खूप भूक लागली आहे,0,I&#39;m so hungry
+604,मला काही खायला मिळेल का?,0,Can I have something to eat?
+605,अरे वाह! किती गोड आहे हा चहा,1,Oh wow How sweet is this tea
+606,मी तुझा आभारी आहे,1,I thank you
+607,तू अॅक्टर आहेस का?,0,Are you an actor
+608,हो मी एक कलावंत आहे,0,Yes I am an artist
+609,तुझ्या स्वप्नात आलेलो का मी?,0,Did i come to your dream
+610,इथे कोणी आहे का?,0,Anyone here?
+611,तिथे कोणी लपलाय का?,0,Is anyone hiding there?
+612,चल ना दारू पाजतो तुला,0,Let&#39;s not get drunk
+613,नको मी मध्यपान नाही करत,1,"No, I&#39;m not drinking"
+614,तो श्वास घेतोय का? का मला!,0,Is he breathing? Why me!
+615,बातमी गोड आहे,1,The news is sweet
+616,बातमी वाईट आहे,-1,The news is bad
+617,बातमी काय आहे सांगशील??,0,What is the news?
+618,हे खूप लहान आहे का?,0,Is it too small?
+619,ती काय जपानी आहे का?,0,Is she Japanese?
+620,तो कुठला पक्षी आहे?,0,What bird is that?
+621,तो कुठला प्राणी आहे?,0,What animal is that?
+622,तो पक्षी किती रुबाबदार आहे,1,How cute is that bird
+623,तो वाघ किती भारी आहे,1,How heavy is that tiger
+624,तुझ्याकडे क्रेडिट कार्ड आहे का?,0,Do you have a credit card
+625,मला कार्ड हवं आहे,0,I&#39;d like a card
+626,ती बँक सर्वात छान आहे,1,That bank is the coolest
+627,ती बँक सर्वात घान आहे,-1,That bank is the most Ghanaian
+628,मला एक छान गाणं ऐकव,1,Tell me a nice song
+629,तू तुझं तोंड काळं कर,-1,You make your mouth black
+630,तू घरात कुठून आला?,0,Where did you come from
+631,मी तुला बाहेर काढेन,-1,I&#39;ll take you out
+632,तू किती निर्लज्ज आहे,-1,How shameless are you
+633,तुला दुसरं काहीच काम नाही का?,0,Do you have anything else to do?
+634,असं विचित्र का वागतोय?,0,Why are you acting so strange?
+635,सासू पेक्षा सून श्रेष्ठ,1,Soon better than mother-in-law
+636,सूने पेक्षा सासू बिनडोक,-1,Mother-in-law Binodoc than Sune
+637,त्याने खूप मेहनत केली,1,He worked very hard
+638,शॉपिंग केली तर खर्च होतो,0,Shopping costs money
+639,आजकालच्या मुव्हीज खूप बोरिंग आहे,-1,Movies nowadays are very boring
+640,मला ते तसच हवंय,0,That&#39;s what I want
+641,आपण फार लहान आहोत,0,We are too young
+642,सांग मला मी काय करू,0,Tell me what I will do
+643,मी तुझा मुलगा आहे का?,0,Am i your son
+644,मला आवडेल तुला आई म्हणायला,1,I&#39;d love to call you a mother
+645,तू ती इमारत बनवलीस का?,0,Did you make that building?
+646,फार उचं आहे ती इमारत,0,The building is very high
+647,ती सोसायटी तर एकदम श्रीमंत आहे,1,That society is very rich
+648,तू राहायला कुठे आहेस?,0,Where are you staying
+649,आला रे आला!,0,"Come on, come on!"
+650,सचिन माझा फेवरेट आहे,1,Sachin is my favorite
+651,मला क्रिकेट फार आवडतं,1,I like cricket very much
+652,फुटबॉल तर माझी जान आहे,1,Football is my life
+653,तुला अजुन कुठले खेळ आवडतात?,0,What other games do you like?
+654,मला कराटे एकदम छान येतं,1,I like karate very well
+655,चल लग्न करून पळून जाऊया,0,Let&#39;s get married and run away
+656,आपण आपलं काम करूया,0,Let&#39;s do our job
+657,मी एक केक बेक करू का?,0,May I bake a cake?
+658,केक ची चव एकदम सुपर आहे,1,The taste of the cake is super super
+659,बघ निसर्ग किती सुंदर आहे,1,See how beautiful nature is
+660,बघ पोरी किती सुंदर आहे,1,See how beautiful Pori is
+661,बघ ती किती सुंदर आहे,1,Look how beautiful she is
+662,मी हे इथे ठेऊ का?,0,Should I put it here?
+663,मला थोडासा आराम करायचा आहे,0,I want to relax a bit
+664,माझे कुत्रे एकदम शुद्ध आहे,0,My dogs are very clean
+665,माझे कान वाजताय,0,My ears are still
+666,माझे वडील फार उंच आहे,0,My father is very tall
+667,माझे हाथ बांधले आहे,0,My hand is tied
+668,तुझ्याशिवाय मन नाही रमत,0,Without you there is no mind
+669,काय करू मी यार?,0,What do i do
+670,आता हे होणे शक्य नाही,0,It can&#39;t happen now
+671,तुझ्यासाठी मी चंद्र तोडून आणेन,0,I will break the moon for you
+672,ती गाणं गायला लागली,0,She began to sing
+673,ती घाणेरडं गाणं गायला लागली,-1,She began to sing dirty songs
+674,ती सुंदर गाणं गाऊ लागली,1,She began to sing beautiful songs
+675,तो खूप उंच उडी मारतो,1,He jumps very high
+676,ती खूप उंच उडी मारते,1,She jumps very high
+677,तो मला थांबवतोय,0,He&#39;s stopping me
+678,ती मला थांबवतेय,0,She&#39;s stopping me
+679,तो जास्त लांब नाही जाऊ शकत,0,He can&#39;t go too far
+680,ती जास्त लांब जाऊ शकते,0,It can go a long way
+681,तिच्याकडे फोटो आहे,0,She has a photo
+682,त्याच्याकडे फोटो आहे,0,He has a photo
+683,तिचे डोळे निळे आहे,0,Her eyes are blue
+684,त्याचे डोळे काळे आहे,0,His eyes are black
+685,ती रडायला सुरू करेल,-1,She will start to cry
+686,तो रडायला सुरू करेल,-1,He would start crying
+687,ती खूप आकर्षक आहे,1,She is very attractive
+688,तो खूप आकर्षक आहे,1,He is very attractive
+689,तो तिचा मित्र आहे,0,He is her friend
+690,ती त्याची मैत्रीण आहे,0,She is his girlfriend
+691,तिने आजुबाजुला बघितलं,0,She looked around
+692,त्याने तिच्याकडे दगड फेकला,-1,He threw stones at her
+693,तिने माझी हजामत केली,-1,She shaves me
+694,तू मला सांगितलं नाहीस,0,You didn&#39;t tell me
+695,तिने मला सांगितलं नाही,0,She didn&#39;t tell me
+696,तिला जर्मन बोलता येते,1,She can speak German
+697,त्याला जर्मन बोलता येते,1,He can speak German
+698,ती त्याला घेऊन घरी गेली,0,She took him and went home
+699,तो तिला घेऊन घरी गेला,0,He took her and went home
+700,मला त्यांचा फोटो दाखव,0,Show me a photo of them
+701,ते सुंदर फोटो कुठे आहेत?,0,Where are those beautiful photos?
+702,ह्या फुलाचा वास घे,0,Smell this flower
+703,आत कोणीतरी आहे,0,There&#39;s somebody inside
+704,कोणीतरी बोलत आहे,0,Someone is talking
+705,माझ्यापासून लांब रहा,0,Stay away from me
+706,मला छेडू नकोस,-1,Don&#39;t touch me
+707,मला ते आवडत नाही,-1,I don&#39;t like it
+708,किती विचित्र आहे ना?,0,How strange is it?
+709,तू खोटारडी निघशिल असं वाटलं नव्हतं,-1,You didn&#39;t think you were a liar
+710,तू खोटारडा निघशील असं वाटलं नव्हतं,-1,You didn&#39;t think you would be a liar
+711,मला आता खरं खरं सांग,0,Tell me the real truth now
+712,काळजी केल्याबद्दल धन्यवाद,1,Thanks for worrying
+713,तो मुलगा हुशार आहे,1,That boy is smart
+714,ती मुलगी हुशार आहे,1,That girl is smart
+715,चतुराई एक कला आहे,1,Cleverness is an art
+716,खेळ फार मजेदार होता,1,The game was very fun
+717,तो बंगला किती मोठा आहे,1,How big is that bungalow
+718,ती झोपडी किती लहान आहे,-1,How small is that hut
+719,ही जमीन थंड आहे,0,This land is cold
+720,हे सरबत थंड आहे,0,This syrup is cold
+721,हा चहा किती गरम आहे,0,How hot is this tea
+722,ती त्याची बायको आहे,0,She is his wife
+723,तो तिचा नवरा आहे,0,He is her husband
+724,तिने घंटी वाजवली,0,She rang the bell
+725,तो नेहमी खरं बोलतो,1,He always speaks the truth
+726,ती नेहमी खोटं बोलते,-1,She always lies
+727,ते परत नाही घडणार,0,It&#39;s not going to happen back then
+728,तो माझा जिवलग मित्र आहे,1,He is my best friend
+729,ती माझी जिवलग मैत्रीण आहे,1,She is my best friend
+730,ती त्याची शत्रू आहे,-1,She is his enemy
+731,तो तिचा शत्रू आहे,-1,He is her enemy
+732,तो सगळ्यांचा शत्रू आहे,-1,He is the enemy of all
+733,तो कोणालाच आवडत नाही,-1,He does not like anyone
+734,ती कोणालाच आवडत नाही,-1,She does not like anyone
+735,ती सगळ्यांना शिवी देते,-1,She gives it to everyone
+736,तो मुलगा दमलेला,0,The boy fainted
+737,ती मुलगी दमलेली,0,The girl fainted
+738,ती त्याला चावली,1,She bites him
+739,तो तिला चावला,-1,He bites her
+740,कॉफी फारच गरम होती म्हणून सांडली,-1,The coffee was too hot to handle
+741,कॉफी एकदम भंगार होती म्हणून टाकून दिली,-1,Coffee was ruined because it was a waste
+742,चेक बाऊन्स झाला ना,-1,Check bounce didn&#39;t happen
+743,बँकेत पैसेच नाहीयेत तर काय होणार?,-1,What if there is no money in the bank?
+744,आता मी कुठून आणू पैसे?,0,Where do I bring the money from?
+745,मला काम धंदा नाहीये ना,-1,I have no business
+746,इतका मोठा मार्केट कुठे आहे?,0,Where&#39;s the big market?
+747,मला काय माहीत.. तू तुझं बघ,0,What do I know .. look at you
+748,दुखणं आहे का गेलं?,0,Is it sad
+749,मला फार त्रास होतोय या सगळ्यांचा ,-1,I&#39;m having a lot of trouble
+750,माझं डोकं दुखायला लागलंय तुझ्यामुळे,-1,My head is hurting because of you
+751,तुला कितीही समजावलं तरी तू बिंडोकच राहणार,-1,"No matter how much you understand, you will remain blind"
+752,हा फोन किती स्वस्त आहे,1,How cheap this phone is
+753,इथे भाडे किती कमी आहे,1,Here&#39;s how low the fare is
+754,ही अफवा कोणी पसरवली?,0,Who spread the rumor?
+755,सूर्य एक तारा आहे,0,The sun is a star
+756,तारा आणि सितारा माझे मुले आहे,0,The star and the star are my children
+757,तारा वाया गेलेली मुलगी आहे,-1,Tara is a lost girl
+758,टाकी रिकामी कोणी केली?,0,Who emptied the tank?
+759,पाण्याची टाकी तू भरलीस का?,0,Have you filled the water tank?
+760,पाणी किती गढूळ आहे!,-1,How dirty the water is!
+761,हे पाणी विषारी आहे,-1,This water is poisonous
+762,ही पण नालायक आहे,-1,It is also worthless
+763,पाणी खूप गरम आहे,-1,The water is very hot
+764,मी नाही करणार अंघोळ,-1,I&#39;m not going to bathe
+765,मला घाणेरडं राहायला आवडतं,-1,I like to stay dirty
+766,मी दिवाळी साजरी करणार,1,I will celebrate Diwali
+767,पोल्युशन नाही केलं पाहिजे आपण,1,You should not have pollution
+768,कचरा देखील नाही टाकला पाहिजे,1,Garbage should also not be dumped
+769,स्वच्छ भारत अभियान चांगली स्कीम आहे,1,Swachh Bharat Abhiyan is a good scheme
+770,मोदी आपला प्रधान मंत्री आहे,0,Modi is your Prime Minister
+771,आम्ही सगळे गावी जातोय,0,We are all going to the village
+772,मला केळ आवडतं,1,I like banana
+773,तिला केळ आवडतं,1,She likes bananas
+774,फळं हेल्थ साठी चांगले असतात,1,Fruits are good for health
+775,ताज्या ताज्या भाज्या खाल्ल्या पाहिजे,1,Eat fresh fresh vegetables
+776,लादी पुसून काढ,0,Wipe the load
+777,तू या घरची नोकर आहेस,-1,You are the servant of this house
+778,तू या घरचा नोकर आहेस,1,You are the servant of this house
+779,तुझ्यासाठी पोरगी बघितली आहे,0,See the porch for you
+780,पोरगी फार सुंदर आहे दिसायला,1,Porgy looks very beautiful
+781,तुला नक्की आवडेल ती!,1,You will definitely like it!
+782,आता बेकी कोण आहे?,0,Who is Becky now?
+783,मला नाही करायचं काही जेवायला,-1,I didn&#39;t want to eat anything
+784,चल ना उद्या जाऊया मार्केट ला,0,Let&#39;s not go to the market tomorrow
+785,मला फार खरेदी करायची आहे,0,I want to buy a lot
+786,ए नाकतोड्या इकडे ये!,-1,"Come here, noses!"
+787,तू इथे येतोस का तिथे येऊन तुझी पप्पी घेऊ?,0,Do you come here and take your puppy?
+788,ये इथे आणि घे पप्पी!,1,Come here and take puppy!
+789,प्लीज मला सोड इथेच,-1,Please leave me here
+790,डिव्होर्स हवाय मला,-1,I want divorces
+791,मी मही देणार तुला डिव्होर्स,0,I&#39;ll give you a month for divorces
+792,तू माझी बायको आहेस ना?,0,Are you my wife
+793,हो पण तू माझा नवरा नाहीये,-1,Yes but you are not my husband
+794,ए जाऊदे ना आता का चिडतेस?,0,Why are you annoyed now?
+795,मग काय नाचू तुझ्यासाठी?,0,So what will you dance for?
+796,जा आणि जेवण घेऊन ये,0,Go and have a meal
+797,हो! तुझ्यासाठी एकदम भारी जेवण आणतो,1,Yes! Bring you a very heavy meal
+798,तू फक्त चिडू नकोस!,0,You just don&#39;t yell!
+799,रात्री खेळ खेळूया का?,0,Shall we play games at night?
